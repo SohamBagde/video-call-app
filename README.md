@@ -1,5 +1,3 @@
-![image](https://github.com/SohamBagde/video-call-app/assets/108925539/8a6cf346-9dc1-4301-baad-8343e683ae71)# video-call-app
-
 Demo:
 
 ![image](https://github.com/SohamBagde/video-call-app/assets/108925539/81c229c2-2055-41d5-b99f-4bc6a12cc464)
